@@ -43,7 +43,7 @@ O presente trabalho lida com a crescente quantidade de dados não estruturados d
 - Tipos de personas -->
 
 ## Conteúdo
-1. [Base de dados](coverter_e_preprocessing.ipynb): Contém as bases de dados com as avaliações coletadas das plataformas selecionadas (<a href="https://www.booking.com/">Booking.com</a> e <a href="https://www.tripadvisor.com.br/">TripAdvisor</a>).
+1. [Base de dados](Base%20de%20dados): Contém as bases de dados com as avaliações coletadas das plataformas selecionadas (<a href="https://www.booking.com/">Booking.com</a> e <a href="https://www.tripadvisor.com.br/">TripAdvisor</a>).
 2. [Análise Exploratória](md0_EDA.ipynb): Resultados da análise exploratória das bases de dados.
 
 ## Autores 
