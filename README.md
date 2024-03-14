@@ -44,7 +44,7 @@ O presente trabalho lida com a crescente quantidade de dados não estruturados d
 
 ## Conteúdo
 1. [Base de dados](Base%20de%20dados): Contém as bases de dados com as avaliações coletadas das plataformas selecionadas (<a href="https://www.booking.com/">Booking.com</a> e <a href="https://www.tripadvisor.com.br/">TripAdvisor</a>).
-2. [Análise Exploratória](md0_EDA.ipynb): Resultados da análise exploratória das bases de dados.
+2. [Análise Exploratória](Análise%20exploratória): Resultados da análise exploratória das bases de dados.
 
 ## Autores 
 <!-- Gabriele de S. Araújo, Jonathan O. Fernandez, Marcelino S. da Silva, Fábio M.F. Lobato -->
