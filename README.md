@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Este repositório contém a base de dados e os resultados do artigo publicado nos anais do XX Brazilian Symposium on Information Systems (SBSI 2024).</h4>
+<h4 align="center">Este repositório contém a base de dados e os resultados do artigo publicado nos anais do <br> XX Brazilian Symposium on Information Systems (SBSI 2024), Maio, 2024, Juiz de Fora, Brasil</h4>
 
 <p align="center">
   <a href="#abstract">Abstract</a> •
@@ -41,7 +41,7 @@
 - Tipos de personas
 
 ## Conteúdo
-1. [Base de dados](coverter_e_preprocessing.ipynb): Contém as bases de dados contendo avaliações das plataformas selecionadas (TripAdvisor e Booking.com).
+1. [Base de dados](coverter_e_preprocessing.ipynb): Contém as bases de dados com as avaliações coletadas das plataformas selecionadas (<a href="https://www.booking.com/">Booking.com</a> e <a href="https://www.tripadvisor.com.br/">TripAdvisor</a>).
 2. [Análise Exploratória](md0_EDA.ipynb): Resultados da análise exploratória das bases de dados.
 
 ## Autores 
