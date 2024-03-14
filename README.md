@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#abstract">Abstract</a> •
-  <a href="#resultados">Resultados</a> •
+  <a href="#diferencial">Diferencial</a> •
   <a href="#conteúdo">Conteúdo</a> •
   <a href="#autores">Autores</a>
 </p>
