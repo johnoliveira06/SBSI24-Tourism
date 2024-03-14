@@ -25,8 +25,10 @@
 **Summary of Results:** The analysis of the topics resulted in identifying ten topics that reveal the preferences and needs of travelers. The application of the grouping technique allowed the creation of personas based on this data, enriching the understanding of the user profile. This results in a purposeful report on products and services best adapted to travelers' needs. 
 **Contributions and Impact in IS area:** Facing challenges in systems in the era of innovation based on connected open data, this work contributes to this discussion as it dynamically fits, providing an innovative and practical approach to dealing with expanding information, automating data analysis processes, and increasing the operational efficiency of tourism companies in forming strategies to enhance decision-making.
 
-## Resultados
- - Modelagem de tópicos
+## Contribuições
+O presente trabalho lida com a crescente quantidade de dados não estruturados disponíveis em plataformas turísticas, que demandam avanços nos sistemas de informação e tecnologia para lidar com sua heterogeneidade e qualidade inconsistente, extraindo conhecimento útil ao domínio. E em meio aos desafios enfrentados em sistemas na era da inovação baseada em dados abertos conectados ([Boscarioli et al. 2017](https://www2.sbc.org.br/ce-si//arquivos/GranDSI-BR_Ebook-Final.pdf)), nosso trabalho contribui para essa discussão pois, pelo nosso melhor conhecimento, é um dos poucos trabalhos que atua com o conceito de _human-in-the-loop_ neste domínio, com participação ativa de especialistas de domínio em todas as etapas, desde a coleta até a geração de _insights_ que agregam valor ao negócio. Além disso, o _pipeline_ experimental traz consigo avanços no que tange a aplicação de novas técnicas no campo de mineração de textos, em destaque a Modelagem de Tópicos baseada no uso de modelos de linguagem (_e.g._, BERT) com a combinação de algoritmo de clusterização que possui relevância na segmentação de clientes (_e.g._, _K-Means_). Assim, nossa pesquisa se insere nesse contexto dinâmico, fornecendo uma abordagem inovadora e prática para lidar com os desafios emergentes tanto nas áreas de inteligência artificial quanto em sistemas de informação. O objetivo é automatizar os processos de análise de dados, aumentando a eficiência operacional das empresas de turismo para facilitar a tomada de decisões estratégicas.
+
+<!--- - Modelagem de tópicos
 
 | Tópicos   | Termos                                                                     |
 |-----------|----------------------------------------------------------------------------|
@@ -38,7 +40,7 @@
 
 - Perfil do viajante
 
-- Tipos de personas
+- Tipos de personas -->
 
 ## Conteúdo
 1. [Base de dados](coverter_e_preprocessing.ipynb): Contém as bases de dados com as avaliações coletadas das plataformas selecionadas (<a href="https://www.booking.com/">Booking.com</a> e <a href="https://www.tripadvisor.com.br/">TripAdvisor</a>).
