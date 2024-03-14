@@ -44,7 +44,8 @@
 1. [Base de dados](coverter_e_preprocessing.ipynb): Contém as bases de dados contendo avaliações das plataformas selecionadas (TripAdvisor e Booking.com).
 2. [Análise Exploratória](md0_EDA.ipynb): Resultados da análise exploratória das bases de dados.
 
-## Autores <!-- Gabriele de S. Araújo, Jonathan O. Fernandez, Marcelino S. da Silva, Fábio M.F. Lobato -->
+## Autores 
+<!-- Gabriele de S. Araújo, Jonathan O. Fernandez, Marcelino S. da Silva, Fábio M.F. Lobato -->
 <table>
   <tr>
     <td align="center">
